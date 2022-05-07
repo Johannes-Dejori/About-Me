@@ -1,5 +1,6 @@
 Hi, I’m @HTTP-Error-401 :)
 
+
 **ABOUT ME**
 - I'm studying interactive media at the *Hochschule Augsburg*.
 - I’m interested in coding and informatics!
